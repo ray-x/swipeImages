@@ -1,5 +1,4 @@
 A demo to use swipe guesture to select/view images with animation.
 The example enable you more animation options compared to use slide view or collectionView 
 ![Image of swipe animation]
-(https://github.com/ray-x/swipeImages/img/animation.gif)
-swipeImages/img/animation.gif
+(https://github.com/ray-x/swipeImages/blob/master/img/animation.gif?raw=true)
